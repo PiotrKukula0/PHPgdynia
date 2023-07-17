@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Zadanie/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Zadanie/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Zadanie/vendor/symfony/yaml" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

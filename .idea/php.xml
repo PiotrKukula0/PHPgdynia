@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Zadanie/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/composer" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/sensio/framework-extra-bundle" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
