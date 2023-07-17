@@ -4,9 +4,19 @@ controllers:
         namespace: App\Controller
     type: attribute
     
-    api_routes:
-        path: /api
-        controller: App\Controller\ApiController::apiEndpoint
+    api_endpoint:
+        path: /api/endpoint
+        controller: App\Controller\ApiController::handleApiRequest
         methods: [POST]
+    
+    exchange_values:
+        path: /exchange/values
+        controller: App\Controller\ExchangeController::exchangeValues
+        methods: [POST]
+
+    history:
+        path: /history
+        controller: App\Controller\ExchangeController::history
+        methods: [GET, POST]
 
 

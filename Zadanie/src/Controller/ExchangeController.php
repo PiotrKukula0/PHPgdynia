@@ -58,7 +58,7 @@ class ExchangeController
     /**
      * @Route("/history", methods={"GET", "POST"})
      */
-    public function getHistory(Request $request, PaginatorInterface $paginator): JsonResponse
+    public function history(Request $request, PaginatorInterface $paginator): JsonResponse
     {
         if ($request->isMethod('POST')) {
             $data = json_decode($request->getContent(), true);
