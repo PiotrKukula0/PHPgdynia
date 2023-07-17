@@ -66,11 +66,21 @@
       <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/doctrine-migrations-bundle" />
       <path value="$PROJECT_DIR$/Zadanie/vendor/doctrine/common" />
       <path value="$PROJECT_DIR$/Zadanie/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/knplabs/knp-paginator-bundle" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Zadanie/vendor/twig/twig" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/Zadanie/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
   <component name="PsalmOptionsConfiguration">
     <option name="transferred" value="true" />
